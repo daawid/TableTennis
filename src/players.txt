@@ -1,0 +1,10 @@
+player,team
+alex,filton
+brian,filton
+jin,uwe
+julia,uwe
+stewart,uwe
+chris,kcc
+ryan,kcc
+peter,page
+phil,page
